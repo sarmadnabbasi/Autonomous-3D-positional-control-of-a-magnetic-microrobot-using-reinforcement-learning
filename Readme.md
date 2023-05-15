@@ -1,6 +1,6 @@
-#**Autonomous 3D positional control of a magnetic microrobot using reinforcement learning**
+# **Autonomous 3D positional control of a magnetic microrobot using reinforcement learning**
 
-##Sections:
+## Sections:
 
 1. Training_Simulation_Env
 2. Training_EAS
@@ -28,11 +28,11 @@ Unity version : 2020.3.35f1
 NumSharp needs to be installed in Unity3D
 
 
-##Navigation around Virtual Obstacle
+## Navigation around Virtual Obstacle
 
 ![Navigation around virtual obstacle](virtual_obstacle.png "Navigation around virtual obstacle")
 
-##Navigation in Physical Environment
+## Navigation in Physical Environment
 
 ![Physical channel](physical_obstacle.png "Physical channel")
 
