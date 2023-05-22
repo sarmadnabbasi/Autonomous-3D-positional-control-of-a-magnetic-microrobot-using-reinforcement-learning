@@ -1,5 +1,8 @@
 # **Autonomous 3D positional control of a magnetic microrobot using reinforcement learning**
 
+## **Important Note**
+As the code is directly linked to imaging system and Electromagnetic actuation system, it is not posible to run it over this console. However, the data in folder "Training_Simulation_Env" can be downloaded and code can be run on local system using Python 3.8 for demonstration of learned simulation model and can be modified for training purposes.
+
 ## Sections:
 
 1. Training_Simulation_Env
@@ -8,10 +11,12 @@
 4. Simulation_Env_Unity.zip
 
 ### 1. Training Simulation Env
+Testing and reproduction possible as the Simulation environment is given in the forlder.
 This folder includes the files for Simulation Environment and the code for training and testing the environment.
 requirement.txt file is included.
 
 ### 2. Training EAS
+Testing and reproduction possible with the necessary changes in image aquisition code and current control code.
 This folder includes the files for make Training environment of Electromagnetic Actuation System, Image processing, Camera access, Training and Evaluation.
 requirement.txt file is included.
 
@@ -21,12 +26,13 @@ This folder includes the files for A-Star algorithm implementation and results
 requirement.txt file is included.
 
 ### 4. Simulation Env Unity
-This is a .zip file that includes Unity3D code for Simulation Environment
+There is a .zip file in data section that includes Unity3D code for Simulation Environment
 
 Unity version : 2020.3.35f1
 
 NumSharp needs to be installed in Unity3D
 
+Note: Final built Environment Available as .exe in "Training Simulation Env"
 
 ## Navigation around Virtual Obstacle
 
