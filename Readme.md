@@ -3,6 +3,10 @@
 ## **Important Note**
 For reproducibility in physical environment, as the code is directly linked to imaging system and Electromagnetic actuation system, it is not possible to run it as it is. However for simulation environment, the data in folder "Training_Simulation_Env" can be downloaded and code can be run on windows-based system using Python 3.8 for demonstration of learned simulation model and can be modified for training purposes (requirenment.txt file in the folder for all the dependencies).
 
+## Requirements
+- Windows OS
+- Python 3.8
+
 ## Sections:
 
 1. Training_Simulation_Env
