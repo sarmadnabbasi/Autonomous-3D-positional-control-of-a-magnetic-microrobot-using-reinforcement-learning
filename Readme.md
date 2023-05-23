@@ -26,7 +26,7 @@ This folder includes the files for A-Star algorithm implementation and results
 requirement.txt file is included.
 
 ### 4. Simulation Env Unity
-There is a .zip file in data section that includes Unity3D code for Simulation Environment
+There is a .zip file in data section that includes Unity3D code for Simulation Environment. It is ~500 MB file so please download seperately if it is not getting zipped with the rest of the repository.
 
 Unity version : 2020.3.35f1
 
