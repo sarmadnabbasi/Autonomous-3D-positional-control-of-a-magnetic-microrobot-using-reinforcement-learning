@@ -7,7 +7,7 @@ For reproducibility in physical environment, as the code is directly linked to i
 - Windows OS
 - Python 3.8
 
-## Sections:
+## Sections
 
 1. Training_Simulation_Env
 2. Training_EAS
