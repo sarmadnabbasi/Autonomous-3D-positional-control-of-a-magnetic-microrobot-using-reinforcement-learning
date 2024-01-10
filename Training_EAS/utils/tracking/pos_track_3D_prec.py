@@ -1,5 +1,5 @@
 from pypylon import pylon
-from MTS_3DPOS_env.utils.tracking.process_frame_prec import get_2D_pos_prec
+from utils.tracking.process_frame_prec import get_2D_pos_prec
 import cv2
 
 class pos_track_3D_prec():

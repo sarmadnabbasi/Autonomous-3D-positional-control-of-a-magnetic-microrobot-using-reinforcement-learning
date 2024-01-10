@@ -1,7 +1,7 @@
 import gym
 from gym import spaces
-from .utils.EAS_current_control import EAS_current_control
-from .utils.tracking.pos_track_3D_prec import pos_track_3D_prec
+from utils.EAS_current_control import EAS_current_control
+from utils.tracking.pos_track_3D_prec import pos_track_3D_prec
 
 import cv2
 import keyboard

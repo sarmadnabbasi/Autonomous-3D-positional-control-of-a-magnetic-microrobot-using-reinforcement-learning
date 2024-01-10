@@ -38,7 +38,7 @@ policy_kwargs = dict(activation_fn=th.nn.ReLU,
                      net_arch=[dict(pi=[128, 256, 256 ,128], vf=[128, 256, 256 ,128])])
 
 
-model = PPO.load("Simulation_models/PPO/rl_model_500000_steps.zip", env)
+model = PPO.load("trained_models/sim_model_PPO.zip", env)
 
 model.verbose=2; model.tensorboard_log="logs_graphs/PPO_MTS_4000000_3D_1_bws_2"; model.policy_kwargs=policy_kwargs
 model.env.reset()

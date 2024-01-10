@@ -18,7 +18,7 @@ Download the.zip files that are in the repository directly from the GitHub link.
 ### 1. Training Simulation Env
 Testing and reproduction possible as the Simulation environment is given in the forlder.
 This folder includes the files for Simulation Environment and the code for training and testing the environment.
-requirements.txt file is included.
+requirements.txt file is included. Install the stable-baselines3 library seperately (stable-baselines3==1.5.0) pip install stable-baselines3==1.5.0
 
 ### 2. Training EAS
 Testing and reproduction possible with the necessary changes in image aquisition code and current control code.

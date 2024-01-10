@@ -43,7 +43,6 @@ rsa==4.8
 scipy==1.9.3
 simple-pid==1.0.1
 six==1.16.0
-stable-baselines3==1.5.0
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
