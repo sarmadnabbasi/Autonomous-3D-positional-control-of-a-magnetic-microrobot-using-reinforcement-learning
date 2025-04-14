@@ -1,6 +1,8 @@
 # **Autonomous 3D positional control of a magnetic microrobot using reinforcement learning**
 
-Update: For Simulation Environment use the following link to download the .zip file
+Update 2: There were some changes (episode and multiplier) in the .exe training enivironment environment which were resuling in no convergence in reward. Fixed the built environment and the Unity3D project.
+
+Update 1: For Simulation Environment use the following link to download the .zip file
 [Google drive link](https://drive.google.com/drive/folders/1ECRgS_rKh0dllwAVznXgNTAulcNLylgY)
 
 ## **Important Note**
