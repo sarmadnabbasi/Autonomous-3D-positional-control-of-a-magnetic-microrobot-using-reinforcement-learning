@@ -42,6 +42,10 @@ NumSharp needs to be installed in Unity3D
 
 Note: Final built Environment Available as .exe in "Training Simulation Env"
 
+## Training results
+
+![Training_results](training_results.png "Training Results")
+
 ## Navigation around Virtual Obstacle
 
 ![Navigation around virtual obstacle](virtual_obstacle.png "Navigation around virtual obstacle")
