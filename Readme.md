@@ -46,7 +46,7 @@ Note: Final built Environment Available as .exe in "Training Simulation Env"
 
 ## Training results
 
-![Training_results](training_results.png "Training Results")
+![Training_results](training_results_2.png "Training Results")
 
 ## Navigation around Virtual Obstacle
 
